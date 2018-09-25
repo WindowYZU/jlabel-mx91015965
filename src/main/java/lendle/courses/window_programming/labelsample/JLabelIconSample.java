@@ -36,8 +36,8 @@ public class JLabelIconSample {
         //1. 利用 url 建立 ImageIcon
         //2. 取得 scaled instance
         //3. 設定到 label1
-        ImageIcon icon=new ImageIcon(new URL());
-        Icon icon2=new ImageIcon(icon.getImage().getScaledInstance());
+        //ImageIcon icon=new ImageIcon(new URL());
+        //Icon icon2=new ImageIcon(icon.getImage().getScaledInstance());
         
         ////////////////////////////
      
